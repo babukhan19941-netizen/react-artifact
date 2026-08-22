@@ -43,4 +43,4 @@ This Android project was automatically generated from your HTML file with full G
 - **Target SDK:** Android 15 (SDK 36)
 - **Min SDK:** Android 7.0 (SDK 24)
 - **Permissions:** android.permission.INTERNET, android.permission.ACCESS_NETWORK_STATE
-- **Detected Capabilities:** 2D Graphics & WebGL, Local Data Storage, Network & Remote APIs
+- **Detected Capabilities:** Local Data Storage, Network & Remote APIs
